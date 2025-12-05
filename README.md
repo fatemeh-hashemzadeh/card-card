@@ -1,8 +1,6 @@
 # card-card
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Image](https://github.com/user-attachments/assets/b6b1f1bd-4254-4a58-9490-aa2b75bdbb4e)
 
 - [Demo Project](https://fatemeh-hashemzadeh.github.io/card-card/)
 
